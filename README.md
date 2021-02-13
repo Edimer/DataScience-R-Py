@@ -6,7 +6,7 @@ Este repositorio contiene ejemplos sencillos de entrenamiento de modelos de mach
 
 | Biblioteca | Logo |
 | :--- | :---- |
-| [tidymodels](https://www.tidymodels.org/) |   <img src="https://avatars0.githubusercontent.com/u/29100987?s=400&v=4" height = 80> |
+| [tidymodels](https://www.tidymodels.org/) | <center>   <img src="https://avatars0.githubusercontent.com/u/29100987?s=400&v=4" height = 80>  </center> |
 | [caret](https://topepo.github.io/caret/) |   <img src="https://evolvingprogrammer.files.wordpress.com/2017/03/tmp_edit-manual-153-594.jpg?w=593" height = 80> |
 | [mlr3](https://mlr3.mlr-org.com/) |   <img src="https://mlr3.mlr-org.com/logo.svg" height = 80> |
 | [h2o](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html) |   <img src="https://dv-website.s3.amazonaws.com/uploads/2018/05/h2.jpg" height = 80> |
