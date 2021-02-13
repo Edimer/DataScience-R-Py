@@ -20,3 +20,19 @@ Este repositorio contiene ejemplos sencillos de entrenamiento de modelos de mach
 | [tensorflow](https://tensorflow.rstudio.com/) |   <img src="https://tensorflow.rstudio.com/images/home/tensorflow-logo.svg" height = 80> |
 | [keras](https://keras.rstudio.com/) |   <img src="https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png" height = 80> |
 | [torch](https://torch.mlverse.org/docs/) |   <img src="https://torch.mlverse.org/docs/reference/figures/torch.png" height = 80> |
+| [fastai](https://henry090.github.io/fastai/) |   <img src="https://henry090.github.io/fastai/files/fastai.png" height = 80> |
+| [DALEX](https://modeloriented.github.io/DALEX/) |   <img src="https://modeloriented.github.io/DALEX/reference/figures/logo.png" height = 80> |
+| [lime](https://lime.data-imaginist.com/) |   <img src="https://lime.data-imaginist.com/reference/figures/logo.png" height = 80> |
+
+# Libros guía
+
+- [Tidy Modeling with R](https://www.tmwr.org/)
+- [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
+- [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
+- [R for Statistical Learning](https://daviddalpiaz.github.io/r4sl/)
+- [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
+- [Mastering Spark with R](https://therinspark.com/)
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+- [Explanatory Model Analysis. Explore, Explain, and Examine Predictive Models. With examples in R and Python.](http://ema.drwhy.ai/)
+- [Deep Learning with R](https://www.manning.com/books/deep-learning-with-r)
+- [Deep Learning](https://www.deeplearningbook.org/)
